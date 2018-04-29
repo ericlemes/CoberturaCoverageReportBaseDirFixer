@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage>
+  <packages>
+    <package>
+      <classes>
+        <class name="user.cpp" filename="examplecode\user.cpp" />
+        <class name="user2.cpp" filename="examplecode\user2.cpp" />
+      </classes>
+    </package>
+  </packages>
+</coverage>

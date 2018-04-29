@@ -1,0 +1,10 @@
+/build/coverage_tmp
+/build/coverage
+/src/.vs
+/src/CoberturaCoverageReportBaseDirFixer/obj
+/src/CoberturaCoverageReportBaseDirFixer/bin
+/src/CoberturaCoverageReportBaseDirFixer.Core/obj
+/src/CoberturaCoverageReportBaseDirFixer.Core/bin
+/src/CoberturaCoverageReportBaseDirFixer.Core.UnitTests/obj
+/src/CoberturaCoverageReportBaseDirFixer.Core.UnitTests/bin
+/src/packages
