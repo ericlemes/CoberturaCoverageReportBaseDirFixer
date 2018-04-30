@@ -15,7 +15,7 @@ namespace CoberturaCoverageReportBaseDirFixer
             if (!parsedArgs.IsValid)
                 return -1;
 
-            var parser = new ReportParser(new FileStreamFactory(), new BasePathFixer());
+            var parser = new ReportParser(new FileStreamFactory(), new BasePathFixer(new Core.Path()));
             parser.Parse(parsedArgs.InputFile, parsedArgs.OutputFile, parsedArgs.BaseDir);
 
             return 0;
