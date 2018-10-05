@@ -9,7 +9,9 @@ SonarQube should know how to handle them afterwards.
 
 # Usage
 
+```
 CoberturaCoverageReportBaseDirFixer <input-report> <output-report> <base-directory>
+```
 
 input-report: XML file containing the report
 output-report: file name for the processed xml file
